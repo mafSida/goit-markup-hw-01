@@ -5,6 +5,8 @@ Basic HTML layout without CSS styling.
 ## Overview
 This project is the first assignment of the GoIT Full Stack Developer course. It involves creating the HTML structure of a webpage using semantic tags, without applying any CSS styling. The task focuses on the foundational aspects of web development, including the use of core HTML elements, attributes, and proper formatting.
 
+The design mockup used for this assignment can be found [here](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0).
+
 ## Summary
 In this project, I have:
 - Created the HTML structure of a webpage.
