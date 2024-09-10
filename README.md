@@ -7,6 +7,9 @@ This project is the first assignment of the GoIT Full Stack Developer course. It
 
 The design mockup used for this assignment can be found [here](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0).
 
+## Screenshots
+All screenshots related to the project can be found in the [images folder](./images).
+
 ## Summary
 In this project, I have:
 - Created the HTML structure of a webpage.
