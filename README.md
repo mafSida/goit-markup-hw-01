@@ -12,3 +12,5 @@ In this project, I have:
 - Structured the webpage based on the provided design mockup.
 - Learned how to optimize images for the web.
 - Ensured that the markup is valid and follows best practices for web development.
+
+This assignment strengthened my skills in structuring web pages and deepened my understanding of semantic HTML for improving both accessibility and search engine optimization.
